@@ -12,7 +12,6 @@ skills: [Javascript, CSS, HTML, React, Ajax, Axios, SASS, GIT],
 openToWork: true,
 social: {
    linkedIn: "https://www.linkedin.com/in/david-enrique-aponte/",
-   instagram: "davidxarias321",
    discord: '"LionheartEva#8887" }
 }
 ```
