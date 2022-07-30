@@ -12,7 +12,8 @@ skills: [Javascript, CSS, HTML, React, Ajax, Axios, SASS, GIT],
 openToWork: true,
 social: {
    linkedIn: "https://www.linkedin.com/in/david-enrique-aponte/",
-   discord: '"LionheartEva#8887" }
+   discord: '"LionheartEva#8887"
+   portofolio: "http://davidaponte.tk/"}
 }
 ```
 I'm learning based React libraries like **React-router**, **React Bootstrap** and **Redux.** If you are interested to work with me contact me in my social media  👀 .
