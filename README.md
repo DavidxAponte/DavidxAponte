@@ -4,7 +4,7 @@ About Me
 ```class Me:
     def __init__(self):
         self.name = "David Enrique Aponte Arias"
-        self.age = 30
+        self.age = 33
         self.skills = ["Python", "Django", "FastAPI", "SQL", "REST APIs", "Git"]
         self.openToWork = True
         self.social = {
