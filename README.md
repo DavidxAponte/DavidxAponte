@@ -1,7 +1,7 @@
 Hi, I am David Aponte 👋
 
 About Me
-class Me:
+```class Me:
     def __init__(self):
         self.name = "David Enrique Aponte Arias"
         self.age = 30
@@ -11,7 +11,7 @@ class Me:
             "linkedIn": "https://www.linkedin.com/in/david-enrique-aponte/",
             "discord": "LionheartEva"
         }
-
+```
 
 I'm currently expanding my skills in database management (PostgreSQL, MySQL), API development, and cloud deployment with tools like Docker and Heroku. My focus is to grow as a Back-End Developer and build efficient, scalable, and secure applications.
 
